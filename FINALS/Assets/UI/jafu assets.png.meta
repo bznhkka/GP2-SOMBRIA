@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 17591cf14377fe348a9009b7b25754a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6398505201391064924
+    second: jafu assets_0
+  - first:
+      213: -1991271411122134581
+    second: jafu assets_1
+  - first:
+      213: 7159256785105194080
+    second: jafu assets_2
+  - first:
+      213: 3764100756246104484
+    second: jafu assets_3
+  - first:
+      213: 631433581167735863
+    second: jafu assets_4
+  - first:
+      213: 1710683124287858636
+    second: jafu assets_5
+  - first:
+      213: -3376009078389954005
+    second: jafu assets_6
+  - first:
+      213: -7170427172212104184
+    second: jafu assets_7
+  - first:
+      213: 1536131393081577053
+    second: jafu assets_8
+  - first:
+      213: 4207324441082002493
+    second: jafu assets_9
+  - first:
+      213: -7025417194594210233
+    second: jafu assets_10
+  - first:
+      213: -716725455151880232
+    second: jafu assets_11
+  - first:
+      213: -3322865419745576315
+    second: jafu assets_12
+  - first:
+      213: -6978007515708137856
+    second: jafu assets_13
+  - first:
+      213: 7689783959104158886
+    second: jafu assets_14
+  - first:
+      213: 8728218679698121996
+    second: jafu assets_15
+  - first:
+      213: -3502449377055392617
+    second: jafu assets_16
+  - first:
+      213: 1424678037359732760
+    second: jafu assets_17
+  - first:
+      213: 4109420726311783105
+    second: jafu assets_18
+  - first:
+      213: 6386640491826262566
+    second: jafu assets_19
+  - first:
+      213: 6059817979434494906
+    second: jafu assets_20
+  - first:
+      213: -5106202389252072571
+    second: jafu assets_21
+  - first:
+      213: -7878282042546931216
+    second: jafu assets_22
+  - first:
+      213: 4740354319889597164
+    second: jafu assets_23
+  - first:
+      213: 7363949033723551239
+    second: jafu assets_24
+  - first:
+      213: -2918141900882962267
+    second: jafu assets_25
+  - first:
+      213: 8673313325608915819
+    second: jafu assets_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jafu assets_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 26
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe7b3985cc81450800000000000000
+      internalID: 6059817979434494906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jafu assets_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b11651bff1329b0800000000000000
+      internalID: -5106202389252072571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jafu assets_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 23
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9b6a52938baa290800000000000000
+      internalID: -7878282042546931216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jafu assets_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5c2b51a0023660800000000000000
+      internalID: 7363949033723551239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e9a74e4079362b4299adc8b4bf5e8eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      jafu assets_0: 6398505201391064924
+      jafu assets_1: -1991271411122134581
+      jafu assets_10: -7025417194594210233
+      jafu assets_11: -716725455151880232
+      jafu assets_12: -3322865419745576315
+      jafu assets_13: -6978007515708137856
+      jafu assets_14: 7689783959104158886
+      jafu assets_15: 8728218679698121996
+      jafu assets_16: -3502449377055392617
+      jafu assets_17: 1424678037359732760
+      jafu assets_18: 4109420726311783105
+      jafu assets_19: 6386640491826262566
+      jafu assets_2: 7159256785105194080
+      jafu assets_20: 6059817979434494906
+      jafu assets_21: -5106202389252072571
+      jafu assets_22: -7878282042546931216
+      jafu assets_23: 4740354319889597164
+      jafu assets_24: 7363949033723551239
+      jafu assets_25: -2918141900882962267
+      jafu assets_26: 8673313325608915819
+      jafu assets_27: 831804314
+      jafu assets_3: 3764100756246104484
+      jafu assets_4: 631433581167735863
+      jafu assets_5: 1710683124287858636
+      jafu assets_6: -3376009078389954005
+      jafu assets_7: -7170427172212104184
+      jafu assets_8: 1536131393081577053
+      jafu assets_9: 4207324441082002493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
